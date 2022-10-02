@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>2d game</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    
+    <body class="body" onkeyup="keyCheck(event);" onload ="creatBoxes();">
+        <div class="background" id= "background">
+            <div class="score" id="score">0</div>
+            <img src="resources/Run (1).png" class="boy" id="boy"/>
+            
+            
+        </div>
+        <div class="restart" id="restart">
+            <div class="textbox1">
+           <h1 class="lose">YOU LOSE</h1> 
+           <button class="btn1" id="btn1">restart</button>
+           <img src="resources/death_PNG30.png" class="img1"/>
+            </div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+    </html>
