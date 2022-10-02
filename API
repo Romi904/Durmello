@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Working With API</title>
+</head>
+<body>
+    <span id="x"></span>
+    <div id="mod">
+        <div class="container">
+                <label for="pp"><abbr title="Maximum value 200">User-ID</abbr></label>
+                <input class="ch" id="pp" type="text" placeholder="Enter ID" maxlength="3" >
+                <input id="button" type="submit" value="CHECK">
+        </div>
+    </div>
+    <div id="bdy">
+        <div class="container">
+            <div id="form">
+                <label for="id">User-ID</label>
+                <input class="ch" id="id" type="text" readonly>
+                <label for="uid">Unique-ID</label>
+                <input class="ch" id="uid" type="text" readonly>
+                <label for="tt">Task Status</label>
+                <input class="ch" id="tt" type="text" readonly>
+                <label for="com">Comment</label>
+                <!-- <input class="ch" id="com" type="text"> -->
+                <textarea name="text" class="ch" id="com" cols="20" rows="10" readonly></textarea>
+                <p id="pol"></p>
+                <div id="p">
+                    <input id="button1" type="submit" value="BACK">
+                    <input id="button2" type="submit" value="Translate">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="script.js"></script>
+<script src="script1.js"></script>
+</html>
