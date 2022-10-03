@@ -14,7 +14,7 @@ Add any Project to it I can Accept it.
 \n No guideline
 Add ur name in contributor.txt
 <hr>
-<p align="center>
+<p align="center">
           <b style="color:red;text-decoration: underline;">Dont Forget To Follow Me ✨✨✨</b>
 </p>
 
