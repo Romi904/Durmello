@@ -13,8 +13,8 @@ its a Hacktoberfest-2022 repo
 Add any Project to it I can Accept it.
 \n No guideline
 Add ur name in contributor.txt
-
-<br>Dont Forget To Follow Me ✨✨✨</br>
+<hr>
+<b style="color:blue;text-align:center;">Dont Forget To Follow Me ✨✨✨</b>
 
 First Follow Me and then send PR otherwise u may be labelled as INVALID
 
