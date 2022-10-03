@@ -1,4 +1,5 @@
 # Durmello
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 <p align="center">
     <a href="https://hacktoberfest.com/">
     <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" alt="image" width="250" height="250">
