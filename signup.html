@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Romijul_laskar</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <noscript>your Browser Doesnt support java</noscript>
+
+</head>
+
+<body>
+    <h1>This Is My HTML Page</h1>
+    <button onclick="dark()">Dark Mode</button>
+    <p id="p">Created By Romijul Laskar</p>
+    <button onclick="change()">Change Text</button>
+    <hr>
+    <!-- modal  -->
+    <button id="signup" onclick="document.getElementById('new').style.display='block'">sign up</button>
+    <div id="new" class="modal">
+        <span onclick="document.getElementById('new').style.display='none'" class="close" title="close">&times;</span>
+        <!--close button-->
+        <form action="welcome.php" class="content">
+            <div class="container">
+                <h2>Sign Up Here</h2>
+                <span>Please Fill The Form.</span>
+                <hr>
+                <label for="em">Email</label>
+                <input type="email" name="em" placeholder="example@gmail.com" required>
+                <label for="pas">Password</label>
+                <input id="pass1" type="password" name="pas" placeholder="Enter Password" required>
+                <label for="rpas">Repeat Password</label>
+                <input id="pass2" type="password" name="rpas" placeholder="enter again" required>
+                <label>
+                    <input type="checkbox" checked name="remember" style="margin-bottom: 15px;">Remember Me.
+                </label>
+                <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+                <div class="clearfix">
+                    <button onclick="document.getElementById('new').style.display='none'" class="cancel">Cancel</button>
+                    <button type="submit" class="sign" onclick="check()">Sign Up</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
