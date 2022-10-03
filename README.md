@@ -1,8 +1,6 @@
 # Durmello
 <p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="[https://raw.githubusercontent.com/keshavsingh4522/hacktoberfest2022/35fc6060c5ddead5792f29a2437fea160dbe9804/Assets/logo-hacktoberfest-full.f42e3b1.svg](https://user-images.githubusercontent.com/39916680/193060738-1facbd63-c6a3-4f84-9473-f9d7b2ee7f8c.png)" width="30%">
-    </a>
+    <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" alt="image" width="500" height="600">
 </p>
 
 <h1 align="center"> Hacktoberfest 2022 🎉</h1>
