@@ -14,7 +14,9 @@ Add any Project to it I can Accept it.
 \n No guideline
 Add ur name in contributor.txt
 <hr>
-<b style="color:blue;text-align:center;">Dont Forget To Follow Me ✨✨✨</b>
+<p align="center>
+          <b style="color:red;text-decoration: underline;">Dont Forget To Follow Me ✨✨✨</b>
+</p>
 
 First Follow Me and then send PR otherwise u may be labelled as INVALID
 
