@@ -1,19 +1,20 @@
 #Author = P4ul x Cyberpj
 #date : oct 3 2022
 #plain text into an invisible text using array and "\u200b" character
+
 def enc():
     text=input(" Enter a plain text : ")
+    nameoffile=input("save as : ")
 
     word_ord=[]
 
     secret_null=[]
-    file=open(f'secret.txt',"w")
+    file=open(f'{nameoffile}',"w")
     for i in range(len(text)):
 	    word_ord.append(ord(text[i]))
 
 
 #print("word ord = ", word_ord)
-#string in an array
 
 
     for j in word_ord:
@@ -50,6 +51,7 @@ elif(inputer==2):
 	decoder()
 else:
 	print("Invalid input :(")
+
 
 
 
