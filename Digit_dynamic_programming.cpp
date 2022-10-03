@@ -1,4 +1,4 @@
-*
+/*
 Find the number of integers between 1 and K (inclusive) satisfying The sum of the digits in base 10 is a multiple of D
 , modulo 10e9+7
 */
