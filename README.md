@@ -1,4 +1,10 @@
 # Durmello
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://raw.githubusercontent.com/keshavsingh4522/hacktoberfest2022/35fc6060c5ddead5792f29a2437fea160dbe9804/Assets/logo-hacktoberfest-full.f42e3b1.svg" width="30%">
+    </a>
+</p>
+
 <h1 align="center"> Hacktoberfest 2022 🎉</h1>
 <div align="centre">
     <b>HACKTOBERFEST2022 REPO</b>
@@ -20,6 +26,7 @@ Steps for adding your name below
     4. Make pull request
 
 Github Contribution Rules
+
 Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
 The pull request must contain commits you made yourself.
 If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
