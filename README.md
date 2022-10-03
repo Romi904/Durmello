@@ -1,5 +1,8 @@
 # Durmello
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 <p align="center">
     <a href="https://hacktoberfest.com/">
     <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" alt="image" width="250" height="250">
