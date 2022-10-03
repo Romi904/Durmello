@@ -29,7 +29,10 @@ Steps for adding your name below
     1. Fork this repo
     2. Edit `CONTRIBUTERS.txt` file
     3. Add your Name also link your github profile
-    4. Make pull request
+    4. Contribute Quality Code,Dont send unnecessary PR's
+    5. Remember Quantity is Fun Quality is Important.
+    6. If You Violate any Rule then You Marked as a `SPAM` 🚫🚫🚫
+    7. When All are checked then only Make pull request
 
 Github Contribution Rules
 
