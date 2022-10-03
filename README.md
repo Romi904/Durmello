@@ -1,7 +1,6 @@
 # Durmello
-<p align="center">
     [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
-</p>
+
 <p align="center">
     <a href="https://hacktoberfest.com/">
     <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" alt="image" width="250" height="250">
