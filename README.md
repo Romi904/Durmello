@@ -9,6 +9,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+<h2>🚨🚨The hacktoberfest team has made it clear that maintainers should no longer accept DSA projects or contributions🚨🚨.</h2>
 <p align="center">
     <a href="https://hacktoberfest.com/">
     <img src="https://i0.wp.com/fossnaija.com/wp-content/uploads/2022/09/fossnaija.com-hacktoberfest-2022.png?resize=768%2C341&ssl=1" alt="image" width="100%" height="350">
