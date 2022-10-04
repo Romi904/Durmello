@@ -1,0 +1,40 @@
+import java.util.*;
+public class machine {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner (System.in);
+        int n = sc.nextInt ();
+        String str = sc.next ();
+        int max = 0, count = 0;
+        char ch = str.charAt (n - 1);
+        int i = n - 1;
+    
+        while (str.charAt (i) == ch)
+            i--;
+        str = str.substring (0, i + 1);
+
+        ch = str.charAt (0);
+        i = 0;
+        while (str.charAt (i) == ch)
+            i++;
+        str = str.substring (i);
+    
+        int countZero = 0, countOne = 0;
+        
+        for (i = 0; i < str.length (); i++)
+        {
+	        if (str.charAt (i) == '0')
+	            countZero++;
+	        else
+	            countZero = 0;
+	        if (str.charAt (i) == '1')
+	            countOne++;
+	        else
+	            countOne = 0;
+	        max = Math.max (max, Math.max (countZero, countOne));
+        }
+        System.out.println (max);
+	}
+
+}
