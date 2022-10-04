@@ -8,7 +8,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 <p align="center">
     <a href="https://hacktoberfest.com/">
-    <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" alt="image" width="250" height="250">
+    <img src="https://i0.wp.com/fossnaija.com/wp-content/uploads/2022/09/fossnaija.com-hacktoberfest-2022.png?resize=768%2C341&ssl=1" alt="image" width="100%" height="350">
     </a>
 </p>
 
