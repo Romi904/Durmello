@@ -1,6 +1,7 @@
 # Durmello
 <a href="#"><img width="100%" height="auto" src="https://share.creavite.co/6w7JFkhTA6ROgHrh.gif" height="100px"/></a>
 
+
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
@@ -44,4 +45,4 @@ Github Contribution Rules
             This year, the first 40,000 participants can earn a T-shirt.
 
 
-<a href="#"><img width="100%" height="auto" src="https://share.creavite.co/CLlOgbnUqOILmmdO.gif" height="100px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://share.creavite.co/dgv6By7QuPMyxJCu.gif" height="100px"/></a>
