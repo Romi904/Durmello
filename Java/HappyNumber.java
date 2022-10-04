@@ -15,8 +15,9 @@ eg  n = 5
  2*2 + 0*0 = 4
  Similarly every number either ends with 4 or 1.
  */
+import java.util.Scanner;
 public class HappyNumber {
-    public boolean isHappy(int n) {
+    public static boolean isHappy(int n) {
         while( n!= 4 && n!=1){    // after doing the required process every number ends on either 4 or 1 . 
             int sum = 0;
             while(n>0){
@@ -28,4 +29,16 @@ public class HappyNumber {
         }
        return n==1;
     }
+    public static void main(String[]args){
+        Scanner s  = new Scanner(System.in);
+        System.out.println("Enter a number to be checked for Happy Number");
+        int n = s.nextInt();
+        s.close();
+        boolean check = isHappy(n);
+        if(check)
+        System.out.println("The entered number is a HappyNumber");
+        else 
+        System.out.println("the entered number is not a HappyNumber");
+    }
+
 }
