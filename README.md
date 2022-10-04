@@ -45,4 +45,4 @@ Github Contribution Rules
             This year, the first 40,000 participants can earn a T-shirt.
 
 
-<a href="#"><img width="100%" height="auto" src="https://share.creavite.co/dgv6By7QuPMyxJCu.gif" height="100px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://share.creavite.co/thPNSJ3fIivObmR8.gif" height="100px"/></a>
