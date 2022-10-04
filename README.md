@@ -11,7 +11,8 @@
     <img src="https://i0.wp.com/fossnaija.com/wp-content/uploads/2022/09/fossnaija.com-hacktoberfest-2022.png?resize=768%2C341&ssl=1" alt="image" width="100%" height="350">
     </a>
 </p>
-
+<!--<img src="https://img.shields.io/github/hacktoberfest/2022/romi904/durmello" alt="image"/>-->
+<img src="https://img.shields.io/github/issues-pr-closed/romi904/durmello" alt="image"/>
 <h1 align="center"> Hacktoberfest 2022 🎉</h1>
 <div align="centre">
     <b>HACKTOBERFEST2022 REPO</b>
