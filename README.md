@@ -53,8 +53,8 @@ Github Contribution Rules
 
 <div align="center">
 
-<a href = "https://github.com/romi904/durmello/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=romi904/durmello"/>
+<a href="https://github.com/romi904/Durmello/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=romi904/Durmello" />
 </a>
 
   
