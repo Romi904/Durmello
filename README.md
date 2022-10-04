@@ -12,7 +12,7 @@
     </a>
 </p>
 <!--<img src="https://img.shields.io/github/hacktoberfest/2022/romi904/durmello" alt="image"/>-->
-<img src="https://img.shields.io/github/issues-pr-closed/romi904/durmello" alt="image"/>
+<!--<img src="https://img.shields.io/github/issues-pr-closed/romi904/durmello" alt="image"/>-->
 <h1 align="center"> Hacktoberfest 2022 🎉</h1>
 <div align="centre">
     <b>HACKTOBERFEST2022 REPO</b>
