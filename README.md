@@ -36,6 +36,7 @@ Steps for adding your name below
     6. If You Violate any Rule then You Marked as a `SPAM` 🚫🚫🚫
     7. When All are checked then only Make pull request
 
+<br>🚨If You Are submitting some .html file please attach a screenshot of <i>RESULT</i>.</br><hr>
 Github Contribution Rules
 
     1. Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
