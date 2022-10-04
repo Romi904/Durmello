@@ -14,3 +14,4 @@ Edit this file and add ur name to it and also PR number
 [Jatayu-u](PR-#95,PR-#62)
 [raju121097] (PR-#93)
 [Akshat-z] (PR-#101)
+[Akshat-z] (PR-#105)
