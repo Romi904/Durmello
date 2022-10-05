@@ -5,12 +5,14 @@
 [![stars - durmello](https://img.shields.io/github/stars/romi904/durmello?style=social)](https://github.com/romi904/durmello)
 [![forks - durmello](https://img.shields.io/github/forks/romi904/durmello?style=social)](https://github.com/romi904/durmello)
 [![forks - durmello](https://img.shields.io/badge/LICENSE-MIT-blue)](https://github.com/Romi904/Durmello/blob/main/LICENSE.txt)
+[![Commits](https://badgen.net/github/commits/Romi904/Durmello/main)](https://github.com/romi904/README.md)
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://img.shields.io/github/directory-file-count/Romi904/Durmello?style=for-the-badge)](https://forthebadge.com)
 [![forks - durmello](https://img.shields.io/github/hacktoberfest/2022/Romi904/Durmello?color=green&style=for-the-badge)](https://github.com/romi904/durmello)
+
 
 <!--<h2>🚨🚨The hacktoberfest team has made it clear that maintainers should no longer accept DSA projects or contributions🚨🚨.</h2>-->
 <p align="center">
