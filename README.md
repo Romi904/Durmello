@@ -55,12 +55,13 @@ Github Contribution Rules
     4. If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
             This year, the first 40,000 participants can earn a T-shirt.
 
-## Contributors of `Hacktoberfest 2022`
+
+### Contributors of `Hacktoberfest 2022`
 
 <div align="center">
 
-<a href="https://github.com/romi904/Durmello/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=romi904/Durmello" />
+<a href="https://github.com/romi904/durmello/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=romi904/durmello" />
 </a>
 
   
