@@ -5,10 +5,11 @@
 [![stars - durmello](https://img.shields.io/github/stars/romi904/durmello?style=social)](https://github.com/romi904/durmello)
 [![forks - durmello](https://img.shields.io/github/forks/romi904/durmello?style=social)](https://github.com/romi904/durmello)
 
-[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forks - durmello](https://img.shields.io/github/hacktoberfest/2022/Romi904/Durmello?color=green&style=for-the-badge)](https://github.com/romi904/durmello)
+
 <!--<h2>🚨🚨The hacktoberfest team has made it clear that maintainers should no longer accept DSA projects or contributions🚨🚨.</h2>-->
 <p align="center">
     <a href="https://hacktoberfest.com/">
