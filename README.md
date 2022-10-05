@@ -8,6 +8,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://img.shields.io/github/directory-file-count/Romi904/Durmello?style=for-the-badge)](https://forthebadge.com)
 [![forks - durmello](https://img.shields.io/github/hacktoberfest/2022/Romi904/Durmello?color=green&style=for-the-badge)](https://github.com/romi904/durmello)
 
 <!--<h2>🚨🚨The hacktoberfest team has made it clear that maintainers should no longer accept DSA projects or contributions🚨🚨.</h2>-->
