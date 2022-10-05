@@ -4,7 +4,7 @@
 [![romi904 - durmello](https://img.shields.io/static/v1?label=romi904&message=durmello&color=blue&logo=github)](https://github.com/romi904/durmello "Go to GitHub repo")
 [![stars - durmello](https://img.shields.io/github/stars/romi904/durmello?style=social)](https://github.com/romi904/durmello)
 [![forks - durmello](https://img.shields.io/github/forks/romi904/durmello?style=social)](https://github.com/romi904/durmello)
-[![forks - durmello](https://img.shields.io/badge/LICENSE-MIT-blue)](https://github.com/romi904/durmello)
+[![forks - durmello](https://img.shields.io/badge/LICENSE-MIT-blue)](https://github.com/Romi904/Durmello/blob/main/LICENSE.txt)
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
