@@ -16,3 +16,4 @@ Edit this file and add ur name to it and also PR number
 [Akshat-z] (PR-#101)
 [Akshat-z] (PR-#105)
 [aryangupta899] (PR-#108)
+[Sushant-1999] (PR-#112)
