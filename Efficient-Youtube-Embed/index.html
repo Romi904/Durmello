@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Product Landing Page</title>
+    <link rel="icon" href="resources/trumpet.png" type="image/icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/youtube-player.css" type="text/css">
+</head>
+
+<body id="grid-container">
+    <header id="header">
+        <div id="brand-logo"><img id="header-img" src="resources/brand-logo.png" alt="a trumpet as logo"></div>
+        <nav id="nav-bar">
+            <ul id="navbar-links">
+                <li>
+                    <a class="nav-link" href="#features">Features</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="#how-it-works">How It Works</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="#pricing">Pricing</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="main">
+        <div id="landing-page-form">
+            <div class="heading-and-form">
+                <h3>Handcrafted, home-made masterpieces</h3>
+            </div>
+            <form action="https://www.freecodecamp.com/email-submit" id="form">
+                <input type="email" name="email" id="email" class="heading-and-form" placeholder="Enter your email address" required>
+                <input type="submit" id="submit" class="heading-and-form" value="GET STARTED">
+            </form>
+        </div>
+
+        <div id="features">
+            <div class="feature">
+                <img class="feature-image" src="resources/premium.png" alt="premium symbol">
+                <div>
+                    <h3>Premium Materials</h3>
+                    <p>Our trombones use the shiniest brass which is sourced locally. This will increase the longevity of your purchase.</p>
+                </div>
+            </div>
+            <div class="feature">
+                <img class="feature-image" src="resources/fast-shipping.png" alt="fast shipping symbol">
+                <div>
+                    <h3>Fast Shipping</h3>
+                    <p>We make sure you recieve your trombone as soon as we have finished making it. We also provide free returns if you are not satisfied.</p>
+                </div>
+            </div>
+            <div class="feature">
+                <img class="feature-image" src="resources/quality-assurance.png" alt="assurance symbol">
+                <div>
+                    <h3>Quality Assurance</h3>
+                    <p>For every purchase you make, we will ensure there are no damages or faults and we will check and test the pitch of your instrument.</p>
+                </div>
+            </div>
+        </div>
+
+        <div id="how-it-works">
+            <div class="videoWrapper">
+                <div class="youtube-player" data-id="y8Yv4pnO7qc"></div>
+            </div>
+            <div class="videoWrapper">
+                <div class="youtube-player" data-id="kGgUK2s-sqA"></div>
+            </div>
+            <div class="videoWrapper">
+                <div class="youtube-player" data-id="5SAuiS4MVlQ"></div>
+            </div>
+            <div class="videoWrapper">
+                <div class="youtube-player" data-id="O2K0ptoYpuc"></div>
+            </div>
+            <div class="videoWrapper">
+                <div class="youtube-player" data-id="6DKQV86wLX4"></div>
+            </div>
+            <div class="videoWrapper">
+                <div class="youtube-player" data-id="7I9WfvDQ7yQ"></div>
+            </div>
+            <div class="videoWrapper">
+                <div class="youtube-player" data-id="vhKp9lphf3c"></div>
+            </div>
+            <div class="videoWrapper">
+                <div class="youtube-player" data-id="kHaEkkOhMB4"></div>
+            </div>
+        </div>
+        
+        <div id="pricing">
+            <div class="pricing-card">
+                <div class="pricing-card-title">
+                    <h4 class="card-title">TENOR TROMBONE</h4>
+                </div>
+                <div class="pricing-card-content">
+                    <p class="price-value">$600</p>
+                    <p>Lorem ipsum.</p>
+                    <p>Lorem ipsum.</p>
+                    <p>Lorem ipsum dolor.</p>
+                    <p>Lorem ipsum.</p>
+                    <input class="price-button" type="submit" value="SELECT">
+                </div>
+            </div>
+            <div class="pricing-card">
+                <div class="pricing-card-title">
+                    <h4 class="card-title">BASS TROMBONE</h4>
+                </div>
+                <div class="pricing-card-content">
+                    <p class="price-value">$900</p>
+                    <p>Lorem ipsum.</p>
+                    <p>Lorem ipsum.</p>
+                    <p>Lorem ipsum dolor.</p>
+                    <p>Lorem ipsum.</p>
+                    <input class="price-button" type="submit" value="SELECT">
+                </div>
+            </div>
+            <div class="pricing-card">
+                <div class="pricing-card-title">
+                    <h4 class="card-title">VALVE TROMBONE</h4>
+                </div>
+                <div class="pricing-card-content">
+                    <p class="price-value">$1200</p>
+                    <p>Lorem ipsum.</p>
+                    <p>Lorem ipsum.</p>
+                    <p>Lorem ipsum dolor.</p>
+                    <p>Lorem ipsum.</p>
+                    <input class="price-button" type="submit" value="SELECT">
+                </div>
+            </div>
+    </main>
+
+    <footer id="footer">
+        <div id="footer-links">
+            <a class="footer-link" href="#">Privacy</a>
+            <a class="footer-link" href="#">Terms</a>
+            <a class="footer-link" href="#">Contact</a>
+        </div>
+        <div id="copyright-text">Copyright 2016, Original Trombones</div>
+    </footer>
+
+    <script>
+        document.addEventListener("DOMContentLoaded",
+            function() {
+                var div, n,
+                    v = document.getElementsByClassName("youtube-player");
+                for (n = 0; n < v.length; n++) {
+                    div = document.createElement("div");
+                    div.setAttribute("data-id", v[n].dataset.id);
+                    div.innerHTML = videoThumbnail(v[n].dataset.id);
+                    div.onclick = displayIframe;
+                    v[n].appendChild(div);
+                }
+            });
+
+        function videoThumbnail(id) {
+            var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="video-thumbnail">',
+                play = '<div class="play"></div>';
+            return thumb.replace("ID", id) + play;
+        }
+
+        function displayIframe() {
+            var iframe = document.createElement("iframe");
+            var embed = "https://www.youtube.com/embed/ID?autoplay=1";
+            iframe.setAttribute("src", embed.replace("ID", this.dataset.id));
+            iframe.setAttribute("frameborder", "0");
+            iframe.setAttribute("allowfullscreen", "1");
+            this.parentNode.replaceChild(iframe, this);
+        }
+    </script>
+</body>
+
+</html>

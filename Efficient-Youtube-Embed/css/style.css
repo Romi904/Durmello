@@ -1,0 +1,273 @@
+body {
+    width: 100vw;
+    min-height: 100vh;
+    background-color: #EEEEEE;
+    font-family: 'Lato', sans-serif;
+    font-display: swap;
+    overflow-x: hidden;
+}
+
+#grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 4rem auto 5rem;
+    grid-template-areas: "header" "main" "footer";
+}
+
+#header {
+    background-color: #EEEEEE;
+    grid-area: header;
+    display: flex;
+    align-items: center;
+    padding: 1%;
+    justify-content: space-between;
+    position: fixed;
+    z-index: 2;
+}
+
+#main {
+    background-color: #EEEEEE;
+    grid-area: main;
+    margin: 0 10%;
+    padding: 4% 0;
+    display: grid;
+    justify-items: center;
+}
+
+#footer {
+    grid-area: footer;
+    margin: 0 10%;
+    background-color: #DDDDDD;
+    float: right;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0% 1%;
+}
+
+#brand-logo {
+    max-width: 23%;
+}
+
+#header-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+#navbar-links {
+    display: flex;
+    white-space: pre;
+    /* generally we set it to white-space: nowrap; */
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+#landing-page-form {
+    text-align: center;
+    align-items: center;
+    margin-bottom: 3%;
+    padding: 0 4%;
+}
+
+.heading-and-form {
+    margin-top: 4%;
+}
+
+#email {
+    max-width: 275px;
+    width: 100%;
+    padding: 1.2%;
+}
+
+#submit {
+    max-width: 150px;
+    width: 100%;
+    height: 30px;
+    border: 0;
+    border-radius: 2px;
+    background-color: #f1c40f;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+#submit:hover {
+    background-color: #FFB52E;
+    cursor: pointer;
+}
+
+#features {
+    padding: 6% 4% 0;
+}
+
+.feature {
+    display: flex;
+    margin: 0 3% 7%;
+}
+
+div.feature:last-child {
+    margin-bottom: 2%;
+}
+
+.feature-image {
+    width: 3rem;
+    height: 3rem;
+    margin-right: 7%;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+p {
+    padding-top: 1%;
+}
+
+#how-it-works {
+    padding: 6% 0%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(250px, 1fr));
+}
+
+.videoWrapper {
+    /* width: 40vw; */
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+}
+
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#pricing {
+    display: flex;
+    text-align: center;
+    width: 100%;
+}
+
+.pricing-card {
+    border: 1px solid black;
+    border-radius: 2px;
+    width: 70%;
+    line-height: 2;
+    margin: 0 1.5%;
+}
+
+.pricing-card-title {
+    background-color: #DDDDDD;
+    padding: 0.4rem 0;
+    font-weight: bold;
+}
+
+.pricing-card-content {
+    padding: 4%;
+}
+
+.price-value {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.price-button {
+    max-width: 100px;
+    width: 100%;
+    height: 35px;
+    margin-top: 15px;
+    border: 0;
+    border-radius: 2px;
+    background-color: #f1c40f;
+    font-size: 1.1rem;
+}
+
+.price-button:hover {
+    background-color: #FFB52E;
+    cursor: pointer;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: black;
+    padding-left: 2%;
+}
+
+#footer-links {
+    padding-bottom: 1%;
+}
+
+#copyright-text {
+    font-size: 0.9rem;
+    color: #444;
+}
+
+
+/* Media Queries */
+
+@media screen and (max-width: 768px) {
+    body {
+        overflow-x: unset;
+    }
+    #grid-container {
+        grid-template-rows: 6rem auto 5rem;
+    }
+    #header {
+        flex-direction: column;
+        padding: 3% 0;
+        justify-content: unset;
+    }
+    #brand-logo {
+        max-width: 50%;
+    }
+    #navbar-links {
+        flex-direction: column;
+        white-space: nowrap;
+        align-items: center;
+        padding: 10%;
+    }
+    li {
+        padding-bottom: 5%;
+    }
+    #main {
+        margin: 0;
+    }
+    #features {
+        padding: 6% 2% 0;
+        text-align: center;
+    }
+    .feature {
+        margin: 0 0 8%;
+    }
+    div.feature:last-child {
+        margin-bottom: 2%;
+    }
+    .feature-image {
+        display: none;
+    }
+    #how-it-works {
+        justify-items: center;
+    }
+    .videoWrapper {
+        width: 90vw;
+    }
+    #pricing {
+        flex-wrap: wrap;
+    }
+    .pricing-card {
+        margin: 2% auto;
+    }
+    #footer {
+        margin: 0;
+        padding: 0 5%;
+    }
+}
