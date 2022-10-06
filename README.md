@@ -6,7 +6,7 @@
 [![forks - durmello](https://img.shields.io/badge/LICENSE-MIT-blue)](https://github.com/Romi904/Durmello/blob/main/LICENSE.txt)
 [![forks - durmello](https://img.shields.io/github/forks/romi904/durmello?style=social)](https://github.com/romi904/durmello)
 [![Commits](https://badgen.net/github/commits/Romi904/Durmello/main)](https://github.com/Romi904)
-[![Contact Telegram](https://img.shields.io/badge/CHAT_US-06283D?style=social&logo=telegram)](https://t.me/hacktoberfest022)
+[![Contact Telegram](https://img.shields.io/badge/CHAT_US-06283D?style=social&logo=telegram)](https://telegram.me/Romijul_Laskar)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
