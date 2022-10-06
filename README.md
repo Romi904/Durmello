@@ -3,9 +3,11 @@
 
 [![romi904 - durmello](https://img.shields.io/static/v1?label=romi904&message=durmello&color=blue&logo=github)](https://github.com/romi904/durmello "Go to GitHub repo")
 [![stars - durmello](https://img.shields.io/github/stars/romi904/durmello?style=social)](https://github.com/romi904/durmello)
-[![forks - durmello](https://img.shields.io/github/forks/romi904/durmello?style=social)](https://github.com/romi904/durmello)
 [![forks - durmello](https://img.shields.io/badge/LICENSE-MIT-blue)](https://github.com/Romi904/Durmello/blob/main/LICENSE.txt)
+[![forks - durmello](https://img.shields.io/github/forks/romi904/durmello?style=social)](https://github.com/romi904/durmello)
 [![Commits](https://badgen.net/github/commits/Romi904/Durmello/main)](https://github.com/Romi904)
+[![Contact Telegram](https://img.shields.io/badge/CHAT_US-06283D?style=social&logo=telegram)](https://t.me/hacktoberfest022)
+
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
@@ -59,7 +61,6 @@ Github Contribution Rules
 ### Contributors of `Hacktoberfest 2022`
 
 <div align="center">
-
 <a href="https://github.com/romi904/durmello/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=romi904/durmello" />
 </a>
