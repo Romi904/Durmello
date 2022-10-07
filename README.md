@@ -41,7 +41,7 @@ First Follow Me and then send PR otherwise u may be labelled as INVALID
 Steps for adding your name below
 
     1. Fork this repo
-    2. Edit `CONTRIBUTERS.txt` file
+    2. Edit `CONTRIBUTERS.md` file
     3. Add your Name also link your github profile
     4. Contribute Quality Code,Dont send unnecessary PR's
     5. Remember Quantity is Fun Quality is Important.
