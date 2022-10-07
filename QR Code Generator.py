@@ -1,46 +1,61 @@
-import qrcode
-from tkinter import *
+import tkinter as tk
+from tkinter import ttk
+from tkinter import filedialog
 
-cp = Tk()
-cp.title('copyassignment.com')
-cp.geometry('700x250')
-cp.config(bg='#e52165')
+def create_qr():
+    import qrcode
+    from PIL import Image
+    from qrcode.image.pil import PilImage
+    k=entry1.get()
+    img=qrcode.make(k)
+    img.save("q.jpg")
+    p=Image.open("q.jpg")
+    p.show()
 
-def generate():
-    img = qrcode.make(msg.get())
-    type(img)
-    img.save(f'{save_name.get()}.png')
-    Label(cp, text='File Saved!', bg='#e52165' , fg='black', font=('Arial Black', 8)).pack()
+def read_img():
+    import cv2
+    from pyzbar.pyzbar import decode
+    file_path = filedialog.askopenfilename()
+    img1=cv2.imread(file_path)
+    for code in decode(img1):
+       label3.config(text = "Output: " + code.data.decode('utf-8'))
 
-def show():
-    img = qrcode.make(msg.get())
-    type(img)
-    img.show()
+def read_cam():
+    import cv2
+    from pyzbar.pyzbar import decode
+    cap=cv2.VideoCapture(0)
+    i=0
+    while i<1:
+       _,frame=cap.read()
+       for code in decode(frame):
+          label4.config(text = "Output: " + code.data.decode('utf-8'))
+          i=i+1
+       cv2.imshow("Screen",frame)
+       cv2.waitKey(5)
+    cv2.destroyAllWindows()
 
-frame = Frame(cp, bg='#e52165')
-frame.pack(expand=True)
-
-#------------------ENTER THE TEXT OR URL------------------
-
-Label(frame, text='Enter the Text or URL : ', font=('Arial Black', 16),
-      bg='#e52165').grid(row=0, column=0, sticky='w')
-
-msg = Entry(frame)
-msg.grid(row=0, column=1)
-
-#------------------ENTER THE FILE NAME------------------
-
-Label(frame, text='File Name(Save As) : ', font=('Arial Black', 16),
-      bg='#e52165').grid(row=1, column=0, sticky='w')
-
-save_name = Entry(frame)
-save_name.grid(row=1, column=1)
-
-#------------------BUTTONS TO SHOW OR SAVE QRCODE------------------
-
-btn = Button(cp, text='Show QR code', bd='5', command=show, width=15)
-btn.pack()
-btn = Button(cp, text='Save QR code', command=generate, bd='5', width=15)
-btn.pack()
-
-cp.mainloop()
+window = tk.Tk()
+window.geometry('400x300')
+greeting = tk.Label(text="Welcome to the QR Code Program")
+label1 = tk.Label(text="Enter Text to generate code")
+entry1 = tk.Entry()
+button1 = tk.Button(text="Generate QR Code", command=create_qr)
+label2 = tk.Label(text="Select QR Image File to read:")
+button2 = tk.Button(text="Select Image", command=read_img)
+label3 = tk.Label(text="Output: ")
+button3 = tk.Button(text="Read QR Code from Camera", command=read_cam)
+label4 = tk.Label(text="Output: ")
+greeting.pack()
+label1.pack()
+entry1.pack()
+button1.pack()
+separator1 = ttk.Separator(window, orient='horizontal')
+separator1.pack(fill='x')
+label2.pack()
+button2.pack()
+label3.pack()
+separator2 = ttk.Separator(window, orient='horizontal')
+separator2.pack(fill='x')
+button3.pack()
+label4.pack()
+window.mainloop()
