@@ -60,10 +60,9 @@ Github Contribution Rules
 ### Contributors of `Hacktoberfest 2022`
 
 <div align="center">
-<a href="https://github.com/Romi904/Durmello/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Romi904/Durmello" />
+<a href="https://github.com/Romi904/durmello/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Romi904/durmello" />
 </a>
-  
 </div>
 
 <a href="#"><img width="100%" height="auto" src="https://share.creavite.co/thPNSJ3fIivObmR8.gif" height="100px"/></a>
