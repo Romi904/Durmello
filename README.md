@@ -36,7 +36,6 @@
           <b style="color:red;text-decoration: underline;">Dont Forget To Follow Me ✨✨✨</b>
 </p>
 
-First Follow Me and then send PR otherwise u may be labelled as INVALID
 
 Steps for adding your name below
 
