@@ -48,8 +48,19 @@
 
 [[anushraya](https://github.com/anushraya)] (PR-#148)
 
+[ [Harshvardhan] (https://github.com/harshvardhan2804)](PR #160)
+
 [[aksharma27](https://github.com/aksharma27)]
 
 [shubhamnegi9] (PR-#159)
 
-[[ishubham010](https://github.com/ishubham010)]
+[[ishubham010](https://github.com/ishubham010)] (PR-#168)
+
+[shreyap05] (PR-#174)
+
+[giovannikurniawan] (PR-#169)
+
+[   ------ ] ( )
+
+[[HumanKing991](https://github.com/HumanKing991)] (PR-#152)
+[codemendor] (PR - #179)

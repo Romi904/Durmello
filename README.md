@@ -26,7 +26,7 @@
 <!--<img src="https://img.shields.io/github/issues-pr-closed/romi904/durmello" alt="image"/>-->
 <h1 align="center"> Hacktoberfest 2022 🎉</h1>
 <div align="centre">
-    <b>HACKTOBERFEST2022 REPO</b>
+    <b>HACKTOBERFEST IS FOR EVERYONE. WHETHER IT’S YOUR FIRST TIME—OR YOUR NINTH—IT’S ALMOST TIME TO HACK OUT FOUR PRISTINE PULL/MERGE REQUESTS AND COMPLETE YOUR MISSION FOR OPEN SOURCE. JOIN OTHER MEMBERS OF THE OPEN-SOURCE COMMUNITY ON THE HACKTOBERFEST <a href="https://discord.com/invite/hacktoberfest">DISCORD.</a></b>
 </div>
 <p align="end">
 <b>MAINTAIN THE COMMUNITY GUIDELINE,FOLLOW THE RULE STRICTLY.</b>
@@ -36,7 +36,6 @@
           <b style="color:red;text-decoration: underline;">Dont Forget To Follow Me ✨✨✨</b>
 </p>
 
-First Follow Me and then send PR otherwise u may be labelled as INVALID
 
 Steps for adding your name below
 
@@ -61,10 +60,9 @@ Github Contribution Rules
 ### Contributors of `Hacktoberfest 2022`
 
 <div align="center">
-<a href="https://github.com/Romi904/Durmello/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Romi904/Durmello" />
+<a href="https://github.com/Romi904/durmello/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Romi904/durmello" />
 </a>
-  
 </div>
 
 <a href="#"><img width="100%" height="auto" src="https://share.creavite.co/thPNSJ3fIivObmR8.gif" height="100px"/></a>
