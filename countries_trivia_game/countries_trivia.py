@@ -34,6 +34,18 @@ def instructions():
         + "\n\n Created by Faith Olusegun (a.k.a propenster)"
         + "\n Release Date: June 29th 2020. "
         + "Made with Python "
+        + "\nInstructions:"
+        + "\n\tYou have 10 questions to answer "
+        + "\n\tAll questions carry equal marks of 5 points each. "
+        + "\n\tEnter the answer in the prompt -_ _ _ "
+        + "\n\tYou are expected to answer in Title Case "
+        + "e.g. 'Washington' but don't worry, any case is accepted"
+        + "\n\tOnce you are done,"
+        + "you will get a manifest (breakdown) of your result... "
+        + "\n\n\tGood luck!"
+        + "\n\n Created by Faith Olusegun (a.k.a propenster)"
+        + "\n Release Date: June 29th 2020. "
+        + "Made with Python "
         + platform.python_version()
         + "\n\n"
     )
@@ -58,6 +70,18 @@ def main():
 
     # for i in range(5):
     # 	print(question_fresh)
+    # Convert the keys in the countryDict to a list....
+    # country = list(result.keys())
+    # #lenghth
+    # country_count = int(len(country))
+    # #Start the random number generation....
+    # country_question = [random.choice(country) for i in range(country_count)]
+    # #new question
+    # #ensures it's not repeated...
+    # question_fresh = [q for q in country if q not in country_question]
+
+    # for i in range(5):
+    # 	print(question_fresh)
     for i in range(10):
         chosen = []
         # print a question....from the country dictionary
@@ -65,6 +89,11 @@ def main():
         r = random.sample(question_fresh, 1)
         if r not in chosen:
             s = ""
+            # Convert that list to a string....
+            newr = s.join(r)
+            # show the user the Question ask for input...
+            print("What is the Capital of ", newr)
+            answer = str(input("Answer: "))
             # Convert that list to a string....
             newr = s.join(r)
             # show the user the Question ask for input...
