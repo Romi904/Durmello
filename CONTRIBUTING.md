@@ -41,3 +41,19 @@
 [[rahulranjan74](https://github.com/rahulranjan74)] (PR-#135)
 
 [[ditiya](https://github.com/ditiya)] (PR-#146)
+
+[[godofgeeks23](https://github.com/godofgeeks23)] (PR-#154)
+
+[vishaaal] (PR-#150)
+
+[[anushraya](https://github.com/anushraya)] (PR-#148)
+
+[[aksharma27](https://github.com/aksharma27)]
+
+[shubhamnegi9] (PR-#159)
+
+[shreyap05] (PR-#174)
+
+[giovannikurniawan] (PR-#169)
+
+[   ------ ] ( )
