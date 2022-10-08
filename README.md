@@ -26,7 +26,7 @@
 <!--<img src="https://img.shields.io/github/issues-pr-closed/romi904/durmello" alt="image"/>-->
 <h1 align="center"> Hacktoberfest 2022 🎉</h1>
 <div align="centre">
-    <b>HACKTOBERFEST2022 REPO</b>
+    <b>HACKTOBERFEST IS FOR EVERYONE. WHETHER IT’S YOUR FIRST TIME—OR YOUR NINTH—IT’S ALMOST TIME TO HACK OUT FOUR PRISTINE PULL/MERGE REQUESTS AND COMPLETE YOUR MISSION FOR OPEN SOURCE. JOIN OTHER MEMBERS OF THE OPEN-SOURCE COMMUNITY ON THE HACKTOBERFEST <a href="https://discord.com/invite/hacktoberfest">DISCORD.</a></b>
 </div>
 <p align="end">
 <b>MAINTAIN THE COMMUNITY GUIDELINE,FOLLOW THE RULE STRICTLY.</b>
