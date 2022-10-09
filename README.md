@@ -80,4 +80,4 @@ This project needs a star️ from you. Don't forget to leave a star✨
 
 ## Additional references added by contributors
 
-GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+GitHub license explained [https://MIT_License.com](https://opensource.org/licenses/MIT)
