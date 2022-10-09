@@ -67,8 +67,8 @@ Please discuss it with us first by creating a new issue.
 ### Contributors of `Hacktoberfest 2022`
 
 <div align="center">
-<a href="https://github.com/Romi904/durmello/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Romi904/durmello" />
+<a href="https://github.com/romi904/Durmello/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=romi904/Durmello" />
 </a>
 </div>
 
