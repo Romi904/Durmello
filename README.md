@@ -56,6 +56,13 @@ Github Contribution Rules
     4. If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
             This year, the first 40,000 participants can earn a T-shirt.
 
+## Help Contributing Guides :crown:
+
+We love to have `articles` and `codes` in different languages and the `betterment` of existing ones.
+
+Please discuss it with us first by creating a new issue.
+
+:tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
 ### Contributors of `Hacktoberfest 2022`
 
@@ -66,3 +73,11 @@ Github Contribution Rules
 </div>
 
 <a href="#"><img width="100%" height="auto" src="https://share.creavite.co/thPNSJ3fIivObmR8.gif" height="100px"/></a>
+
+## 🙏🏽 Support
+
+This project needs a star️ from you. Don't forget to leave a star✨
+
+## Additional references added by contributors
+
+GitHub license explained [https://choosealicense.com](https://choosealicense.com)
